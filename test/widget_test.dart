@@ -7,9 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-// ignore: depend_on_referenced_packages
-import 'package:labshared_pref/main.dart';
+import 'package:week9_652021063/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
